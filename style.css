@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+}
+.div-class {
+  border: 3px solid;
+  border-radius: 20%;
+  font-size: 50px;
+  padding: 5px;
+  margin: 5px;
+  background-color: rgb(194, 152, 172);
+  display: inline-block;
+}
